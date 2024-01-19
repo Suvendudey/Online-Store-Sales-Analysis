@@ -1,1 +1,1 @@
-# Online-Store-Sales-Analysis
+Vrinda Store -It is a online store. It sells product through many channels like Flipkart, Amazon, Myntra etc. Vrinda store business owner want me to do analysis on his business data and build an annual report so that he can understand it’s existing customer and increase the sales of upcoming year. To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on Pivot Table, Pivot Chart to provide valuable insights.
